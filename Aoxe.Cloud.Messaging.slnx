@@ -1,6 +1,6 @@
 ﻿<Solution>
   <Folder Name="/demo/" />
-  <Folder Name="/srs/" />
+  <Folder Name="/src/" />
   <Folder Name="/srs/AWS/">
     <Project Path="src\AWS\Aoxe.AWS.EventBridge\Aoxe.AWS.EventBridge.csproj" Type="Classic C#" />
     <Project Path="src\AWS\Aoxe.AWS.Kinesis\Aoxe.AWS.Kinesis.csproj" Type="Classic C#" />
