@@ -1,7 +1,7 @@
 ﻿using Amazon.SQS;
 using Amazon.SQS.Model;
 
-namespace Zaabee.AWS.SQS;
+namespace Aoxe.AWS.SQS;
 
 public class Test
 {
