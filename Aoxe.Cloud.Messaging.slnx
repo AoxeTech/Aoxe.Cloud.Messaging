@@ -1,20 +1,20 @@
 ﻿<Solution>
   <Folder Name="/demo/" />
   <Folder Name="/src/" />
-  <Folder Name="/srs/AWS/">
+  <Folder Name="/src/AWS/">
     <Project Path="src\AWS\Aoxe.AWS.EventBridge\Aoxe.AWS.EventBridge.csproj" Type="Classic C#" />
     <Project Path="src\AWS\Aoxe.AWS.Kinesis\Aoxe.AWS.Kinesis.csproj" Type="Classic C#" />
     <Project Path="src\AWS\Aoxe.AWS.MQ\Aoxe.AWS.MQ.csproj" Type="Classic C#" />
     <Project Path="src\AWS\Aoxe.AWS.SNS\Aoxe.AWS.SNS.csproj" Type="Classic C#" />
     <Project Path="src\AWS\Aoxe.AWS.SQS\Aoxe.AWS.SQS.csproj" Type="Classic C#" />
   </Folder>
-  <Folder Name="/srs/Azure/">
+  <Folder Name="/src/Azure/">
     <Project Path="src\Azure\Aoxe.Azure.EventGrid\Aoxe.Azure.EventGrid.csproj" Type="Classic C#" />
     <Project Path="src\Azure\Aoxe.Azure.EventHubs\Aoxe.Azure.EventHubs.csproj" Type="Classic C#" />
     <Project Path="src\Azure\Aoxe.Azure.QueueStorage\Aoxe.Azure.QueueStorage.csproj" Type="Classic C#" />
     <Project Path="src\Azure\Aoxe.Azure.ServiceBus\Aoxe.Azure.ServiceBus.csproj" Type="Classic C#" />
   </Folder>
-  <Folder Name="/srs/GCP/">
+  <Folder Name="/src/GCP/">
     <Project Path="src\GCP\Aoxe.GCP.PubSub\Aoxe.GCP.PubSub.csproj" Type="Classic C#" />
   </Folder>
   <Folder Name="/tests/" />
