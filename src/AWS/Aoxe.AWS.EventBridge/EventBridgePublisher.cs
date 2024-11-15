@@ -1,5 +1,3 @@
-using System;
-using System.Threading.Tasks;
 using Amazon.EventBridge;
 using Amazon.EventBridge.Model;
 

@@ -1,6 +1,5 @@
 using Amazon.Lambda.Core;
 using Amazon.Lambda.EventBridgeEvents;
-using System;
 
 namespace Aoxe.Aws.EventBridge;
 
